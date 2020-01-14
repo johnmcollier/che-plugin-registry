@@ -14,7 +14,7 @@ publisher: codewind
 name: codewind-sidecar
 version: next
 type: Che Plugin
-description: Enables iterative development and deployment in Che
+description: Enables containerized development in Che. Must be installed alongside the Codewind IDE extension.
 displayName: Codewind Sidecar
 title: Codewind Sidecar
 icon: https://www.eclipse.org/codewind/images/logo.svg

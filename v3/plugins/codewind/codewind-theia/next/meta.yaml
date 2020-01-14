@@ -16,7 +16,7 @@ version: next
 type: VS Code extension
 displayName: Codewind IDE Extension
 title: Codewind Extension for Theia
-description: Codewind Extension for Theia
+description: Codewind Extension for Theia. Must be installed alongside the Codewind Sidecar plugin.
 icon: https://www.eclipse.org/codewind/images/logo.svg
 repository: http://github.com/eclipse/codewind-vscode/
 category: Other
