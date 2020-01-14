@@ -14,8 +14,8 @@ publisher: codewind
 name: codewind-theia
 version: next
 type: VS Code extension
-displayName: Codewind VS Code Extension
-title: Codewind Extension for VS Code
+displayName: Codewind IDE Extension
+title: Codewind Extension for Theia
 description: Codewind Extension for Theia
 icon: https://www.eclipse.org/codewind/images/logo.svg
 repository: http://github.com/eclipse/codewind-vscode/

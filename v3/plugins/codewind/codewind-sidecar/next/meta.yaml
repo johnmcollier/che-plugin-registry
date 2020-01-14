@@ -15,8 +15,8 @@ name: codewind-sidecar
 version: next
 type: Che Plugin
 description: Enables iterative development and deployment in Che
-displayName: Enables iterative development and deployment in Che
-title: Codewind Che Sidecar
+displayName: Codewind Sidecar
+title: Codewind Sidecar
 icon: https://www.eclipse.org/codewind/images/logo.svg
 repository: https://github.com/eclipse/codewind-che-plugin
 category: Other
